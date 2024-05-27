@@ -5,3 +5,5 @@ This case study is based on a fictional database that contains information about
 The case study is designed to help you practice your SQL skills and learn how to manipulate data from a relational database.
 
 
+# Schema Used
+![DatabaseSchema](https://github.com/syedasif05/University-Database-Analysis-SQL/assets/94976245/86c62b3e-3df4-4059-a9f9-dce673438416)
